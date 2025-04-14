@@ -24,12 +24,14 @@ A fonte de dados é um arquivo Excel com dados coletados do sistema de vendas e 
 
 ## Conhecimentos Adquiridos nesse projeto 
 
-1 - Total de Vendas por Ano
-2 - Custo de Entrega do Veículo Por Fabricante
-3 - Custo de Mão de Obra Por Estado
-4 - Total de Vendas Geral e Matriz de Vendas
-5 - Visualização do total de vendas por estado e vendas estão acima ou abaixo da média. 
-6 - Avaliação de vendas de automóveis da marca Jaguar, com a evolução ou não das vendas de automóveis deste fabricante por ano e por estado.
+```bash
+    1 - Total de Vendas por Ano
+    2 - Custo de Entrega do Veículo Por Fabricante
+    3 - Custo de Mão de Obra Por Estado
+    4 - Total de Vendas Geral e Matriz de Vendas
+    5 - Visualização do total de vendas por estado e vendas estão acima ou abaixo da média. 
+    6 - Avaliação de vendas de automóveis da marca Jaguar, com a evolução ou não das vendas de automóveis deste fabricante por ano e por estado.
+```
 
 ## Tecnologias Utilizadas 
 
