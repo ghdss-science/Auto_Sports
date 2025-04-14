@@ -54,7 +54,8 @@ A fonte de dados é um arquivo Excel com dados coletados do sistema de vendas e 
   # Obter Python, Anaconda, Jupyter notebook ou outra Ide instalado na sua maquina
 
   # acessar o terminal no seu sistema operacional e escrever jupyter notebook para ver a análise de dados no python pandas
-  # ou obter o Vs code e instalar a extensão do python e jupyter notebook para ver no pandas 
+  # ou obter o Vs code e instalar a extensão do python e jupyter notebook para ver no pandas
+
 ```
 
 ## Baixar e visualizar o Projeto via Power BI 
